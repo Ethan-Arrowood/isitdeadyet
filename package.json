@@ -1,0 +1,14 @@
+{
+  "name": "isitdeadyet",
+  "version": "1.0.1",
+  "description": "Did something new just get released that could replace something existing? Use this module to check if some old thing is dead yet.",
+  "bin": {
+    "isitdeadyet": "bin/index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Ethan Arrowood",
+  "license": "MIT"
+}
